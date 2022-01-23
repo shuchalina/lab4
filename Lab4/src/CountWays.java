@@ -1,0 +1,5 @@
+interface FindCountTunnels {
+
+    int countWays();
+
+}
